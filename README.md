@@ -1,3 +1,3 @@
-ECE 5554: Price Chart Pattern Recognition
+# ECE 5554: Price Chart Pattern Recognition
 
 Initial Commit
